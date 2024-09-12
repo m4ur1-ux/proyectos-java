@@ -1,0 +1,1 @@
+memberSearchIndex = [{"p":"software","c":"Ahorcado","l":"Ahorcado()","u":"%3Cinit%3E()"},{"p":"software","c":"Ahorcado","l":"iniciarPartida()"},{"p":"software","c":"Ahorcado","l":"main(String[])","u":"main(java.lang.String[])"}];updateSearchResults();
